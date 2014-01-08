@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jinxin Yang
-tagline: University of Houston
+tagline: "University of Houston"
 ---
 {% include JB/setup %}
 
