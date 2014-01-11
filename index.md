@@ -5,25 +5,7 @@ tagline: "University of Houston"
 ---
 {% include JB/setup %}
 
-## Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : Brian's Warehouse
-    
-    author :
-      name : Brian Yang
-      email : brianyang1106@gmail.com
-      github : ichoyjx
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
+## New Home
 
 Here's a sample "posts list".
 
