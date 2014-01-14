@@ -5,9 +5,12 @@ tagline: "University of Houston"
 ---
 {% include JB/setup %}
 
-## New Home
+## About Me
+Algorithms and techniques enthusiast;
+Focused, meticulous researcher and software developer;
+Fast learner, problem solver, team player and group leader.
 
-Here's a sample "posts list".
+## Posts List
 
 <ul class="posts">
   {% for post in site.posts %}
