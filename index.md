@@ -7,7 +7,9 @@ tagline: "University of Houston"
 
 ## About Me
 Algorithms and techniques enthusiast;
+
 Focused, meticulous researcher and software developer;
+
 Fast learner, problem solver, team player and group leader.
 
 ## Posts List
