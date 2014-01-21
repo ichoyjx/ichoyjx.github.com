@@ -20,8 +20,8 @@ Fast learner, problem solver, team player and group leader.
   {% endfor %}
 </ul>
 
-## To-Do
+## Resume
 
-I will update this blog soon.
+I am currently looking for 2014 summer intern or full-time job, please check my [CV](https://raw.github.com/ichoyjx/CV/master/yang.pdf).
 
 
