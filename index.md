@@ -12,6 +12,11 @@ Focused, meticulous researcher and software developer;
 
 Fast learner, problem solver, team player and group leader.
 
+## Current Work
+OpenACC 2.0 Validation Suite (Cray, HMPP, PGI, NVIDIA)
+
+Scalable Auto-tuning Framework based on OpenUH, CHiLL and Active-Harmony
+
 ## Posts List
 
 <ul class="posts">
