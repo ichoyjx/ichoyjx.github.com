@@ -17,6 +17,10 @@ OpenACC 2.0 Validation Suite (Cray, HMPP, PGI, NVIDIA)
 
 Scalable Auto-tuning Framework based on OpenUH, CHiLL and Active-Harmony
 
+## Resume
+
+I am currently looking for 2014 summer intern or full-time job, please check my [CV](https://raw.github.com/ichoyjx/CV/master/yang.pdf).
+
 ## Posts List
 
 <ul class="posts">
@@ -24,9 +28,3 @@ Scalable Auto-tuning Framework based on OpenUH, CHiLL and Active-Harmony
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-## Resume
-
-I am currently looking for 2014 summer intern or full-time job, please check my [CV](https://raw.github.com/ichoyjx/CV/master/yang.pdf).
-
-
